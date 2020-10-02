@@ -4,6 +4,9 @@ Problem Link: https://edabit.com/challenge/7iT6DbY3GsHnLBPq4
 */
 
 #include <bits/stdc++.h>
+#include<iostream.h>
+#include<conio.h>
+#include<stdio.h>
 
 using namespace std;
 int main(){
